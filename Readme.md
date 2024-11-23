@@ -1,0 +1,2 @@
+<h>This project is to check the person eligiblity to apply for the voter Id<h>
+<p>In this code I simply create the function which takes an perameter age than use if else condition like if age is greater or equal to age<p>
